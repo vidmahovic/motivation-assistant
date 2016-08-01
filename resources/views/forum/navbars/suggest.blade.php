@@ -1,0 +1,1 @@
+<iframe width="100%" name="suggest" src="http://localhost:8000/question2answer/index.php?qa=tag&qa_1=suggest" scrolling="no" frameborder="0" onload='javascript:resizeIframe(this);'></iframe>
